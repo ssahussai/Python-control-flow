@@ -11,11 +11,11 @@
 
 # Hint:  Use the int() function to convert the string returned from input() into an integer
 
-dog_years = input("Input a dog's age in human years:")
-if int(dog_years) <= 2:
-    print(f"The dog's age in dog years is {int(dog_years) * 10}")
-elif int(dog_years) > 2: 
-    print(f"The dog's age in dog years is {int(dog_years) * 7}")
+dog_years = int(input("Input a dog's age in human years:"))
+if dog_years <= 2:
+    print(f"The dog's age in dog years is {dog_years * 10}")
+elif dog_years > 2: 
+    print(f"The dog's age in dog years is {((dog_years - 2) * 7) + 20}")
 
 
 

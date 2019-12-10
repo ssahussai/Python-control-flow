@@ -12,3 +12,14 @@
 #      etc.
 
 # Hint: The next number is found by adding the two numbers before it
+
+
+
+
+
+
+
+#psedocode:
+# calculate fibonacci sequence
+# print fibonacci sequence
+# print each term and number as follows {term: 0 / number: 0}
