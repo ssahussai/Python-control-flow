@@ -7,10 +7,6 @@
 #      - What you entered is xx characters long
 # 3. Return to step 1, unless the word 'quit' was entered.
 
-#Psyedocode: 
-    # write a code where you will prompt the user to enter a phrase
-    # then calculate the length of the phase or word
-    # print the msg back to the user saying "What you entered is xx characters long"
 
 words = None
 while words != "quit":
@@ -20,8 +16,7 @@ while words != "quit":
 
     
 
-
-
-
-
-    
+#Psyedocode: 
+    # write a code where you will prompt the user to enter a phrase
+    # then calculate the length of the phase or word
+    # print the msg back to the user saying "What you entered is xx characters long"
